@@ -1,0 +1,25 @@
+.app{
+    background-color: azure;
+    font-size: 17px;
+    list-style: none;
+
+}
+.container nav{
+    display: flex;
+    justify-content: space-around;
+
+}
+h3{
+    padding-top: 20px;
+}
+nav div ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 50%;
+    padding: 0 20px;
+
+}
+ul li{
+    padding: 20px 20px;
+}

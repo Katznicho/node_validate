@@ -1,0 +1,1 @@
+This project is about the core aspects of node validation
